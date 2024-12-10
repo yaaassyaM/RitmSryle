@@ -1,0 +1,105 @@
+body{
+    font-family: 'El Messiri', sans-serif;
+    background-color: #162831;
+}
+
+/*Header*/
+.header{
+    width: 100%;
+    padding-top: 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    text-align: center;
+    
+}
+.nav_link {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    margin-right:40px; 
+}
+
+.img{
+    position: absolute;
+}
+
+/*Title*/
+.heading-sessions{
+    position: absolute;
+    color: white;
+    margin: 10px 0 0 500px;
+    font-size: 55px;
+}
+
+.pictures-sessions{
+    height: 540px;
+    width: 415px;
+    margin: 149px 0 0 85px;
+}
+
+/*Ritmstyle стандарт*/
+.standart-sessions{
+    position: absolute;
+    top: 650px;
+    left: 110px;
+    color: white;
+    font-size: 20px;
+}
+
+/*Ritmstyle для дітей*/
+.children-pictures{
+    position: absolute;
+    height: 260px;
+    width: 415px;
+    left: 525px;
+    top: 160px;
+}
+
+.children-sessions{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 370px;
+    left: 535px;
+}
+
+/*Ritmstyle для вагітних*/
+.beremenna-sessions-pictures{
+    position: absolute;
+    height: 260px;
+    width: 415px;
+    left: 525px;
+    top: 435px;
+}
+
+.beremenna-sessions{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 650px;
+    left: 540px;
+}
+
+
+/*Підводна фотосесія*/
+.fotoset-pictures{
+    position: absolute;
+    top: 160px;
+    left: 960px;
+    color: white;
+    font-size: 20px;
+}
+
+.fotoset-sessions{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 630px;
+    left: 970px;
+}
