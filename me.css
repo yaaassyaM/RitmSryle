@@ -1,0 +1,68 @@
+body{
+    font-family: 'El Messiri', sans-serif;
+    background-color: #162831;
+}
+
+/*Header*/
+.header_inner{
+    width: 100%;
+    padding-top: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    text-align: center;
+    
+}
+
+.nav_link {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    margin-right:40px; 
+}
+
+.p{
+    text-align: left
+}
+
+.rightimg  {
+    color: white;
+    float: right;  
+     margin: 7px 150px 7px 7px; 
+}
+
+.leftimg{
+    color: white;
+    float: left; 
+    margin: 0px 10px 7px 150px; 
+}
+
+.title-RitmStyle{
+    color: white;
+    text-align:center;
+    font-size: 40px;
+    left: 200px;
+}
+
+.text-block-1{
+    position: absolute;
+    left: 265px;
+    color: white;
+    padding-left: px;
+    padding-right: 20px;
+
+}
+
+.text-block-2{
+    position: absolute;
+    bottom: -390px;
+    color: white;
+    padding-left:100px;
+    padding-right: 160px;
+
+}
